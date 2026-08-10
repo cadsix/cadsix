@@ -68,9 +68,11 @@ I care about writing clean, maintainable code and delivering interfaces that wor
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadsix&show_icons=true&theme=dark" alt="Collins's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cadsix&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Collins's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadsix&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadsix&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cadsix&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
